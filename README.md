@@ -7,7 +7,7 @@ Language: Java
 
 Pattern:PageObjectFactory
 
-Simple tests in Youtube application.
+Simple tests in Youtube application in Android.
 
 
 To be continued :)
