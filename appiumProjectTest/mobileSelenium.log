@@ -1,0 +1,27 @@
+2020-08-17 18:03:02,111 INFO [tests.BaseClass] - <Appium Server is already running>
+2020-08-17 18:05:02,115 INFO [tests.BaseClass] - <Appium Server is already running>
+2020-08-17 18:07:58,317 INFO [tests.BaseClass] - <Appium>
+2020-08-17 18:10:07,239 INFO [tests.BaseClass] - <Appium>
+2020-08-17 18:13:12,443 INFO [tests.BaseClass] - <Appium>
+2020-08-17 18:17:22,473 INFO [tests.BaseClass] - <Appium>
+2020-08-17 19:02:33,151 INFO [tests.BaseClass] - <Appium>
+2020-08-17 19:57:44,356 INFO [tests.BaseClass] - <Appium>
+2020-08-17 19:59:08,517 INFO [tests.BaseClass] - <Creating session with Appium>
+2020-09-15 16:27:54,745 INFO [tests.BaseClass] - <Appium is already running>
+2020-09-15 16:30:05,916 INFO [tests.BaseClass] - <Appium is already running>
+2020-09-15 16:32:43,586 INFO [tests.BaseClass] - <Appium is already running>
+2020-09-15 16:41:19,027 INFO [tests.BaseClass] - <Appium is already running>
+2020-09-15 16:43:18,081 INFO [tests.BaseClass] - <Appium is already running>
+2020-09-15 16:49:06,009 INFO [tests.BaseClass] - <Appium is already running>
+2020-10-26 21:47:09,324 INFO [tests.BaseClass] - <Appium is already running>
+2020-10-26 21:49:08,717 INFO [tests.BaseClass] - <Appium is already running>
+2020-10-26 21:55:27,662 INFO [tests.BaseClass] - <Appium is already running>
+2020-10-27 22:32:24,200 INFO [tests.BaseClass] - <Appium is already running>
+2020-10-27 22:37:43,499 INFO [tests.BaseClass] - <Appium is already running>
+2020-10-27 22:42:57,078 INFO [tests.BaseClass] - <Appium is already running>
+2020-10-28 21:31:30,459 INFO [tests.BaseClass] - <Appium is already running>
+2020-10-28 21:37:42,879 INFO [tests.BaseClass] - <Appium is already running>
+2020-10-28 21:48:45,922 INFO [tests.BaseClass] - <Appium is already running>
+2020-10-28 21:54:50,384 INFO [tests.BaseClass] - <Appium is already running>
+2020-10-28 22:08:50,607 INFO [tests.BaseClass] - <Appium is already running>
+2020-10-28 22:09:44,111 INFO [page.HomePage] - <Create HomePage>
